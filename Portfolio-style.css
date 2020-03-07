@@ -1,0 +1,135 @@
+.list:hover {
+    opacity: 0.5;
+}
+
+.btn:hover {
+    opacity: 0.5;
+}
+
+.page {
+    background-color:#f4fffd;
+    color:#465362;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.Logo {
+    font-size: 15px;
+    padding-left: 10px;
+    float: left;
+    letter-spacing: 2px;
+    font-family: fantasy;
+}
+
+.list {
+    list-style: none;
+    float: right;
+    letter-spacing: 1px;
+    padding-right: 20px;
+    font-size: 10px;
+    height :10px;
+    width: auto;
+}
+
+.btn-wrapper {
+    position: relative;
+    bottom: 150px;
+    text-align: center;
+}
+
+.btn {
+    color:white;
+    display:inline-block;
+    opacity:0.8;
+}
+
+
+a {
+    color:#aaaaaa;
+    outline: none;
+    text-decoration: none;
+    display: inline;
+}
+
+.header {
+    height:100vh;
+    width:auto;
+}
+
+span {
+    font-size:55px;
+    font-family:fantasy
+}
+
+.logo {
+    text-align:center;
+    padding:300px 0px 300px 0px;
+    letter-spacing: 7px;
+    font-size:50px;
+}
+
+span {
+    font-size:20px;
+    color:#aaaaaa;
+    font-family: "Noto Sans JP";
+}
+
+.contents {
+    width:90%;
+    margin:0 auto;
+    padding-top: 100px;
+    
+}
+
+.small-logo {
+    font-size:20px;
+    letter-spacing: 7px;
+    padding-left: 15px;
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+}
+
+.skill {
+    background-color:#f9f9f9;
+    padding-bottom:100px;
+}
+
+.skill-list {
+    list-style: none;
+    font-size: 25px;
+    letter-spacing: 2px;
+    width: 300px;
+    padding-top:50px;
+    padding-bottom:20px;
+}
+
+.skill-p {
+    letter-spacing: 15px;
+}
+
+.profile {
+    padding-bottom: 180px;
+}
+
+#profile-picture {
+    float: left;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    padding: 20px;
+    
+}
+
+.profile-logo {
+    font-size: 15px
+}
+
+.profile-p {
+    font-size:13px;
+    opacity:0.8;
+}
+
+.introduction {
+    float:left;
+    padding-top:35px;
+    
+}
